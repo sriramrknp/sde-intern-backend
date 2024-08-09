@@ -26,6 +26,28 @@
 
 [Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
 
+Nest.js Backend API for SDE Intern Assessment
+Project Overview
+This repository contains a Nest.js-based API built as part of the required assessment for an SDE Intern (Backend) position. The project demonstrates the ability to create a robust backend application with the following features:
+
+1. CRUD Operations: Endpoints for Create, Read, Update, and Delete operations, allowing interaction with a PostgreSQL database.
+Database Integration: Uses TypeORM to define the schema and manage database interactions.
+2. Error Handling & Validation: Implements comprehensive error handling and input validation to ensure data integrity.
+3. Authentication & Authorization: Secures the API with JWT-based authentication, ensuring that only authorized users can access certain endpoints.
+4. Unit Testing: Comprehensive unit tests are written using Nest.js only, ensuring that all API functions perform as expected.
+
+Technologies Used
+Nest.js
+PostgreSQL
+TypeORM
+JWT (JSON Web Tokens)
+Git
+Getting Started
+To set up and run this project locally, follow the instructions provided in the README.md. The project requires a working knowledge of Nest.js, Express.js, PostgreSQL, TypeORM, JWTs, and Git.
+
+License
+This project is open-source and available under the MIT License.
+
 ## Installation
 
 ```bash
